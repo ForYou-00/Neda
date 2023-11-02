@@ -24,7 +24,7 @@ let allMusic = [
     src: "music-2"
   },
   {
-    name: "آخه تو فرق داری با همه، من دوست دارم یه عالمه ...",
+    name: "آخه تو فرق داری با همه، من دوست دارم یه عالمه ",
     artist: "Ahmad Saeedi",
     img: "music-3",
     src: "music-3"
