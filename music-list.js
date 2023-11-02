@@ -18,7 +18,7 @@ let allMusic = [
 
   },
   {
-    name: "کج باشم خوب میکنی حسمو فقط تو میدونی قصمو ...",
+    name: "کج باشم خوب میکنی حسمو فقط تو میدونی قصمو ",
     artist: "Dian & Mahyar",
     img: "music-2",
     src: "music-2"
